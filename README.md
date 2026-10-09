@@ -2,7 +2,7 @@
 
 # ☁️ Nimbus (Insight AI)
 
-### Enterprise AI Analytics & Intelligence SaaS Platform
+### AI analytics product site — front-end showcase with interactive, simulated demos
 
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -13,6 +13,7 @@
 <br />
 
 <p align="center">
+  <b>Front-end only: all data and metrics are simulated for demonstration. There is no backend.</b><br/>
   A high-conversion, interactive product platform featuring rich visual data visualizations, dark obsidian aesthetic, animated globe telemetry, interactive product demos, and pricing tiers.
 </p>
 
